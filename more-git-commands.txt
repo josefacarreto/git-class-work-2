@@ -1,119 +1,77 @@
-**1. What command is used to stage changes for commit in Git?**
+**1. What command is used to stage changes for commit in Git? A
    - a. git add
-   - b. git commit
-   - c. git status
-   - d. git push
+   
 
-**2. Which Git command initializes a new repository?**
+**2. Which Git command initializes a new repository?A
    - a. git init
-   - b. git clone
-   - c. git commit
-   - d. git status
+ 
 
-**3. What does `git status` show?**
-   - a. Commit history
+**3. What does `git status` show?B
    - b. Staged changes
-   - c. Untracked files
-   - d. Branch information
-
-**4. How do you create a commit in Git?**
-   - a. git add
-   - b. git push
+   
+**4. How do you create a commit in Git?C
    - c. git commit
-   - d. git clone
+   
 
-**5. What command is used to view the commit history in Git?**
+**5. What command is used to view the commit history in Git?A
    - a. git log
-   - b. git status
-   - c. git history
-   - d. git show
+   
 
-**6. Which Git command is used to clone a repository from a remote URL?**
-   - a. git pull
-   - b. git init
+**6. Which Git command is used to clone a repository from a remote URL?C
    - c. git clone
-   - d. git fetch
+ 
 
-**7. What does `git clone` do?**
-   - a. Create a new branch
+**7. What does `git clone` do?B
+   
    - b. Clone a remote repository
-   - c. Initialize a Git repository
-   - d. Commit changes
-
-**8. How do you add a remote repository to your local Git repository?**
-   - a. git init
-   - b. git add-remote
+ 
+**8. How do you add a remote repository to your local Git repository?C
    - c. git remote add
-   - d. git clone
+  
 
-**9. What is the purpose of `git pull`?**
-   - a. Push changes to a remote repository
+**9. What is the purpose of `git pull`?B
    - b. Fetch changes from a remote repository
-   - c. Clone a repository
-   - d. Initialize a new repository
+   
 
-**10. How do you push changes to a remote repository in Git?**
-   - a. git commit
+**10. How do you push changes to a remote repository in Git?B
    - b. git push
-   - c. git pull
-   - d. git merge
 
-**11. Which Git command is used to see the changes made in the working directory?**
-   - a. git status
+
+**11. Which Git command is used to see the changes made in the working directory?B
    - b. git diff
-   - c. git log
-   - d. git show
+   
 
-**12. What is the purpose of `git push`?**
-   - a. Fetch changes from a remote repository
+**12. What is the purpose of `git push`?A
    - b. Push changes to a remote repository
-   - c. View commit history
-   - d. Initialize a new repository
 
-**13. What does `git log` display?**
-   - a. Staged changes
-   - b. Untracked files
-   - c. Commit history
+
+**13. What does `git log` display?D
    - d. Branch information
 
-**14. How do you initialize a new Git repository on your local machine?**
-   - a. git clone
+**14. How do you initialize a new Git repository on your local machine?B
    - b. git init
-   - c. git pull
-   - d. git commit
+  
 
-**15. What is the purpose of `git status`?**
-   - a. View commit history
-   - b. Show changes made in the working directory
+**15. What is the purpose of `git status`?C
    - c. Stage changes for commit
-   - d. Initialize a new repository
+   
 
-**16. Which command is used to fetch changes from a remote repository in Git?**
-   - a. git clone
+**16. Which command is used to fetch changes from a remote repository in Git?B
    - b. git fetch
-   - c. git pull
-   - d. git push
+   -
 
-**17. How do you create a new branch in Git?**
+**17. How do you create a new branch in Git?A
    - a. git branch
-   - b. git checkout
-   - c. git create-branch
-   - d. git init
+   
 
-**18. What is the purpose of `git checkout`?**
+**18. What is the purpose of `git checkout`?A
    - a. Switch to a different branch
-   - b. Stage changes for commit
-   - c. View commit history
-   - d. Initialize a new repository
+   
 
-**19. How do you pull changes from a remote repository and merge them into your local branch?**
+**19. How do you pull changes from a remote repository and merge them into your local branch?A
    - a. git fetch
-   - b. git merge
-   - c. git pull
-   - d. git push
 
-**20. What does `git fetch` do?**
+
+**20. What does `git fetch` do?A
    - a. Fetch changes from a remote repository
-   - b. Pull changes from a remote repository
-   - c. Clone a repository
-   - d. Initialize a new repository
+
